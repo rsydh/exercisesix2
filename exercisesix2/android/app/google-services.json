@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127813733199",
+    "project_id": "fcm-besquare-5a17a",
+    "storage_bucket": "fcm-besquare-5a17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127813733199:android:793ebf658d75457b8b533a",
+        "android_client_info": {
+          "package_name": "com.example.exerciseenam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127813733199-fo3g4ep3dc78k0q1jevkljfsp0ptbb0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrt262x1PhfazNTxeeSvhKxxZA4gyM4qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127813733199-fo3g4ep3dc78k0q1jevkljfsp0ptbb0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
